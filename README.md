@@ -1,6 +1,6 @@
 ## Justus Reichel
 
-Data science at Aalto University. Finnish-German.
+Data science at Aalto University. Finnish(FinSwe)-German.
 
 I build tools I use every day, which is a harder constraint than it sounds —
 they have to still work on an ordinary Tuesday, not just demo well.
@@ -18,7 +18,7 @@ TypeScript, running daily over my own vault.
 data in Postgres, behind a PWA I open every morning: sleep, recovery, training
 load, per-session detail. The interesting part is provenance. Two watches
 disagree, so every value carries the device that produced it, and the app will
-show you which readings it threw out and why. A number without its origin
+show you which readings it threw out and why. Also the app does some interesting data aggregation for interesting A number without its origin
 attached is worse than no number, because you will trust it. Very useful for my ironman training. 
 
 **ThreadWeaver** — newsletter intelligence. Ingests what I subscribe to,
