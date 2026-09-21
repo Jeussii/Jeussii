@@ -19,7 +19,7 @@ data in Postgres, behind a PWA I open every morning: sleep, recovery, training
 load, per-session detail. The interesting part is provenance. Two watches
 disagree, so every value carries the device that produced it, and the app will
 show you which readings it threw out and why. A number without its origin
-attached is worse than no number, because you will trust it.
+attached is worse than no number, because you will trust it. Very useful for my ironman training. 
 
 **ThreadWeaver** — newsletter intelligence. Ingests what I subscribe to,
 synthesises it into persistent threads rather than a daily dump, and turns those
@@ -27,9 +27,3 @@ into active recall. FastAPI, Postgres, Redis workers, deployed.
 
 **MCP servers** — semantic retrieval over my own vaults, and a reader for Aalto
 coursework.
-
-Most of this runs on a VPS I administer myself, which is where I learned that
-the failure mode of a side project is not bad code. It is a broken pipe nobody
-noticed, because the surface still looked alive.
-
-Training for Ironman Hamburg, June 2027.
